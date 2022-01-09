@@ -7,6 +7,9 @@
     padding:5px 8px;
 
 }
+a.post-link {
+    text-decoration: none;
+}
 #individual-post-title {
     text-align: center;
    padding-top: 24px;
